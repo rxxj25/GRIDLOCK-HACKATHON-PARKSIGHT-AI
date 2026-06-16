@@ -6,9 +6,7 @@ ParkSight AI converts raw illegal-parking violation records into a decision-supp
 
 ## Live Demo
 
-GitHub Pages deployment is configured through `.github/workflows/deploy.yml`.
-
-After the first successful Pages deployment, the app will be available at:
+The app is hosted on GitHub Pages:
 
 ```text
 https://rxxj25.github.io/GRIDLOCK-HACKATHON-PARKSIGHT-AI/
