@@ -14,7 +14,7 @@ https://rxxj25.github.io/GRIDLOCK-HACKATHON-PARKSIGHT-AI/
 ## Demo Video
 
 ```text
-[https://www.youtube.com/watch?v=-cFo2bGPOks]
+https://www.youtube.com/watch?v=-cFo2bGPOks
 ```
 
 ## Problem Statement
