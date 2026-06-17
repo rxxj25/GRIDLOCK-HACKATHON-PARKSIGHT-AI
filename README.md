@@ -11,6 +11,11 @@ The app is hosted on GitHub Pages:
 ```text
 https://rxxj25.github.io/GRIDLOCK-HACKATHON-PARKSIGHT-AI/
 ```
+## Demo Video
+
+```text
+https://www.youtube.com/watch?v=-cFo2bGPOks
+```
 
 ## Problem Statement
 
